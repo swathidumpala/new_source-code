@@ -1,1 +1,8 @@
 hi ......
+Inbound connectors
+Loggers
+Flow-refs
+Message-Enrichers (examples in Mule 4, so you won’t see these)
+Async scopes
+Business events
+Exception strategies
